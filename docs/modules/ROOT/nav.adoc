@@ -1,0 +1,3 @@
+* Information sur la version {page-component-display-version}
+** xref:presentation.adoc[]
+* {url-repo}[Voir le projet]

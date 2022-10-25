@@ -1,0 +1,15 @@
+name: epsius-bot-typescript
+title: Epsius-Bot-TypeScript
+version: latest
+display_version: '1.0-α'
+prerelease: -α
+start_page: ROOT:presentation.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+    # url-doc: https://gitlab.com/louis-ducruet-documentation/epsius/epsius-discord-bot/
+    # url-repo: https://github.com/louis-ducruet/Epsius-Discord-Bot/
+
+nav:
+- modules/ROOT/nav.adoc
