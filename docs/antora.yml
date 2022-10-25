@@ -8,8 +8,8 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
-    # url-doc: https://gitlab.com/louis-ducruet-documentation/epsius/epsius-discord-bot/
-    # url-repo: https://github.com/louis-ducruet/Epsius-Discord-Bot/
+    url-doc: https://github.com/Epsius-44/Docs/
+    url-repo: https://github.com/Epsius-44/epsius-bot-typescript/
 
 nav:
 - modules/ROOT/nav.adoc

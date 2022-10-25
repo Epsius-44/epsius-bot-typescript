@@ -3,4 +3,4 @@ Louis DUCRUET <louis.ducruet@epsi.fr>
 :description: Présentation du projet Epsius 
 :keywords: présentation, projet, discord, Epsius
 
-> WARNING: Documentation en cours de rédaction.
+WARNING: Documentation en cours de rédaction.
