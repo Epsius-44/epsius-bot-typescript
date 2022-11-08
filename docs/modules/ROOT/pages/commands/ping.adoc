@@ -1,0 +1,27 @@
+= Commande : /ping
+Louis DUCRUET <louis.ducruet@epsi.fr>
+:description: Présentation de la commande ping
+:keywords: présentation, commande, discord, Epsius
+
+Cette commande permet d'afficher les informations du projet en ligne (latence, version, ...)
+
+|===
+|Propriété |Valeur
+
+|nom
+|ping
+
+|description
+|Affiche les informations du projet en ligne (latence, version, ...)
+
+|isPublic
+|✔
+
+|type
+|ChatInput
+
+|dmPermission
+|✖
+|===
+
+WARNING: Documentation en cours de rédaction.

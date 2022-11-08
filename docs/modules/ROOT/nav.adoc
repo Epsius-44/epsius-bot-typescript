@@ -1,3 +1,5 @@
 * Information sur la version {page-component-display-version}
 ** xref:presentation.adoc[]
+** Commandes
+*** xref:commands/ping.adoc[]
 * {url-repo}[Voir le projet]

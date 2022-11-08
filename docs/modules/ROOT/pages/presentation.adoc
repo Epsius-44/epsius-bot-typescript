@@ -5,13 +5,14 @@ Louis DUCRUET <louis.ducruet@epsi.fr>
 
 image::banniere-projet.webp[align=center, alt='banière du projet']
 
-Epsius est un bot discord développer pour le serveur Discord PSN-2 EPSI-WIS Nantes (2022-2023).
+Epsius est un bot Discord en TypeScript développé pour le serveur PSN-2 EPSI-WIS Nantes (2022-2023).
 
 Mais attention Epsius n'est pas un bot comme les autres !
-
 Suite à diverses expériences scientifiques, un penguin 🐧 avec une conscience vient de créer son compte Discord.
-
 Son passe-temps, rendre des services aux étudiants d'EPSI-WIS Nantes.
+
+{title} est un refactor du projet https://github.com/louis-ducruet/Epsius-Discord-Bot[Epsius-Discord-Bot] réalisé en JavaScript.
+L'objectif est de fournir un projet facilement maintenable dans le temps avec une documentation via https://antora.org[Antora].
 
 == Objectifs
 
