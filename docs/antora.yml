@@ -10,6 +10,7 @@ asciidoc:
     table-caption: false
     url-doc: https://github.com/Epsius-44/Docs/
     url-repo: https://github.com/Epsius-44/epsius-bot-typescript/
+    project-name: Epsius-Bot-TypeScript
 
 nav:
 - modules/ROOT/nav.adoc

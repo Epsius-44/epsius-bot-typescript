@@ -22,6 +22,9 @@ Cette commande permet d'afficher les informations du projet en ligne (latence, v
 
 |dmPermission
 |✖
+
+|illustration
+|image:commands/ping.webp[]
 |===
 
 WARNING: Documentation en cours de rédaction.

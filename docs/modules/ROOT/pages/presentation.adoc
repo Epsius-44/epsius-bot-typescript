@@ -11,7 +11,7 @@ Mais attention Epsius n'est pas un bot comme les autres !
 Suite à diverses expériences scientifiques, un penguin 🐧 avec une conscience vient de créer son compte Discord.
 Son passe-temps, rendre des services aux étudiants d'EPSI-WIS Nantes.
 
-{title} est un refactor du projet https://github.com/louis-ducruet/Epsius-Discord-Bot[Epsius-Discord-Bot] réalisé en JavaScript.
+{project-name} est un refactor du projet {url-repo}[{project-name}] réalisé en JavaScript.
 L'objectif est de fournir un projet facilement maintenable dans le temps avec une documentation via https://antora.org[Antora].
 
 == Objectifs
